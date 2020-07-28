@@ -1,0 +1,8 @@
+SSN          Last name First name     Taxes owed
+656666666    Barrymore Christina        12780.34
+222353222    Doe       Jane              3140.26
+333535333    Simpson   Homer              760.81
+111111111    Smith     Tim            6592003.90
+700009000    Coen      Seymour          22455.50
+787878787    Daniels   Beryl             1182.06
+999999999    McDonald  Ronald          182288.41
